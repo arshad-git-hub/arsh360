@@ -1,0 +1,29 @@
+/* ====================================== */
+/* --------------- 768 px --------------- */
+/* ====================================== */
+
+@media (max-width: 450px) {
+  .personal-facts,
+  .note-preview-grid {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .welcome-row {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .hero-copy {
+    width: 65%;
+    padding-left: 16px;
+  }
+
+  .hero-profile {
+    width: 40%;
+    padding-left: 12px;
+  }
+
+  .travel-list .record-image {
+    height: 90px;
+  }
+}

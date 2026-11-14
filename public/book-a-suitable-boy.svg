@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="360" viewBox="0 0 240 360">
+  <defs>
+    <linearGradient id="cover" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#281115"/>
+      <stop offset="1" stop-color="#09090b"/>
+    </linearGradient>
+    <linearGradient id="arch" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ff8590"/>
+      <stop offset="1" stop-color="#9d1c30"/>
+    </linearGradient>
+  </defs>
+  <rect width="240" height="360" fill="url(#cover)"/>
+  <path d="M120 45C72 45 45 82 45 132v137h150V132c0-50-27-87-75-87Z" fill="none" stroke="url(#arch)" stroke-width="6"/>
+  <path d="M120 74c-31 0-48 24-48 58v115h96V132c0-34-17-58-48-58Z" fill="#c53043" opacity=".22"/>
+  <circle cx="120" cy="104" r="13" fill="#ffc7b5" opacity=".8"/>
+  <path d="M120 117v66m-25-37h50" stroke="#ffc7b5" stroke-width="2" opacity=".75"/>
+  <text x="24" y="41" fill="#ffb5bd" font-family="Arial, sans-serif" font-size="9" letter-spacing="2">A NOVEL</text>
+  <text x="24" y="218" fill="#fff5f6" font-family="Georgia, serif" font-size="27" font-weight="700">
+    <tspan x="24" dy="0">A SUITABLE</tspan>
+    <tspan x="24" dy="34">BOY</tspan>
+  </text>
+  <path d="M24 286h60" stroke="#ff6475" stroke-width="2"/>
+  <text x="24" y="312" fill="#ffe1e3" font-family="Arial, sans-serif" font-size="11">VIKRAM SETH</text>
+</svg>

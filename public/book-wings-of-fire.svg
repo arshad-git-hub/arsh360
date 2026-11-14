@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="360" viewBox="0 0 240 360">
+  <defs>
+    <linearGradient id="cover" x1="0" y1="0" x2="0.9" y2="1">
+      <stop offset="0" stop-color="#321014"/>
+      <stop offset="1" stop-color="#08090b"/>
+    </linearGradient>
+    <linearGradient id="flame" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0" stop-color="#e12c3f"/>
+      <stop offset="1" stop-color="#ffca70"/>
+    </linearGradient>
+  </defs>
+  <rect width="240" height="360" fill="url(#cover)"/>
+  <path d="M142 292c-44-31-18-62-4-82 2 24 20 29 18 49 23-26 10-53 34-82 30 55 38 84 15 115-14 19-37 29-63 25Z" fill="url(#flame)"/>
+  <path d="M165 296c-15-16-3-31 6-43 9 15 17 26 6 42-3 5-8 7-12 1Z" fill="#fff0c8"/>
+  <path d="M24 43h46" stroke="#ff6a78" stroke-width="3"/>
+  <text x="24" y="80" fill="#ffb5bd" font-family="Arial, sans-serif" font-size="9" letter-spacing="2">AN AUTOBIOGRAPHY</text>
+  <text x="24" y="132" fill="#fff5f6" font-family="Georgia, serif" font-size="29" font-weight="700">
+    <tspan x="24" dy="0">WINGS</tspan>
+    <tspan x="24" dy="36">OF FIRE</tspan>
+  </text>
+  <text x="24" y="198" fill="#ffe1e3" font-family="Arial, sans-serif" font-size="11">A.P.J. ABDUL KALAM</text>
+</svg>

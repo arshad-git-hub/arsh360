@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="360" viewBox="0 0 240 360">
+  <defs>
+    <linearGradient id="cover" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#300d14"/>
+      <stop offset=".55" stop-color="#130b0d"/>
+      <stop offset="1" stop-color="#070809"/>
+    </linearGradient>
+    <linearGradient id="shape" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ff6475"/>
+      <stop offset="1" stop-color="#bd2035"/>
+    </linearGradient>
+  </defs>
+  <rect width="240" height="360" fill="url(#cover)"/>
+  <path d="M0 0h14v360H0z" fill="#fa4b60"/>
+  <circle cx="177" cy="229" r="62" fill="none" stroke="#ff8793" stroke-width="2" opacity=".7"/>
+  <path d="M177 169v120m-60-60h120" stroke="url(#shape)" stroke-width="10" opacity=".7"/>
+  <text x="30" y="52" fill="#ffb5bd" font-family="Arial, sans-serif" font-size="10" letter-spacing="3">A GUIDE TO PARTNERSHIP</text>
+  <text x="30" y="128" fill="#fff5f6" font-family="Georgia, serif" font-size="30" font-weight="700">
+    <tspan x="30" dy="0">SUCCESSFUL</tspan>
+    <tspan x="30" dy="38">HUSBAND</tspan>
+  </text>
+  <path d="M30 294h76" stroke="#ff6475" stroke-width="2"/>
+  <text x="30" y="320" fill="#fff5f6" font-family="Arial, sans-serif" font-size="10" letter-spacing="1.5">FORMATTED BY ME</text>
+</svg>

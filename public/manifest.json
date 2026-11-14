@@ -1,0 +1,26 @@
+{
+  "id": "/",
+  "short_name": "Arsh360",
+  "name": "Arsh360 — My Life Archive",
+  "description": "My life, my people, my memories.",
+  "icons": [
+    {
+      "src": "/arsh360-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/arsh360-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#273d34",
+  "background_color": "#f5f4ef"
+}

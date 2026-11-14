@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="360" viewBox="0 0 240 360">
+  <defs>
+    <linearGradient id="cover" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#241014"/>
+      <stop offset="1" stop-color="#09090b"/>
+    </linearGradient>
+    <linearGradient id="ribbon" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ff6878"/>
+      <stop offset="1" stop-color="#a9172b"/>
+    </linearGradient>
+  </defs>
+  <rect width="240" height="360" fill="url(#cover)"/>
+  <path d="M0 242 240 62v111L0 353z" fill="url(#ribbon)" opacity=".9"/>
+  <circle cx="181" cy="93" r="37" fill="none" stroke="#ffd9dd" stroke-width="2" opacity=".8"/>
+  <circle cx="181" cy="93" r="25" fill="none" stroke="#ffd9dd" stroke-width="1" opacity=".6"/>
+  <text x="24" y="51" fill="#ffb5bd" font-family="Arial, sans-serif" font-size="10" letter-spacing="3">A PRACTICAL GUIDE</text>
+  <text x="24" y="134" fill="#fff5f6" font-family="Georgia, serif" font-size="27" font-weight="700">
+    <tspan x="24" dy="0">SUCCESSFUL</tspan>
+    <tspan x="24" dy="34">MARRIED</tspan>
+    <tspan x="24" dy="34">LIFE</tspan>
+  </text>
+  <path d="M24 276h72" stroke="#ffd9dd" stroke-width="2"/>
+  <text x="24" y="301" fill="#fff5f6" font-family="Arial, sans-serif" font-size="10" letter-spacing="1.5">FORMATTED BY ME</text>
+</svg>
